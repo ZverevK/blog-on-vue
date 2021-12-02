@@ -23,5 +23,12 @@ export default {
 </script>
 
 <style scoped>
-
+.post {
+  margin-top: 16px;
+  padding: 15px;
+  border: 2px solid teal;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
 </style>
